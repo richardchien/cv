@@ -52,6 +52,7 @@ During the second period, I built a new backend for the e-commerce website using
 ### Jan 2017 — Now, OneBot & NoneBot Community
 
 Leader of the OneBot & NoneBot community
+
 - Promoted the idea of open source in QQ chatbot community by creating CQHTTP (now named OneBot) and NoneBot.
 - Developed and maintained a large part of the ecosystem at the early days of the community.
 - Will be a mentor on three projects of the community in [Summer 2021 of Open Source Promotion Plan](https://nonebot.dev/ospp.html).
@@ -59,11 +60,11 @@ Leader of the OneBot & NoneBot community
 ### Oct 2018 — Jun 2020, Changzhou University Open Source Association
 
 Founder and leader of [CCZU OSA](https://github.com/cczu-osa)
+
 - Founded the Open Source Association during my undergraduate to promote open source.
 - Built a [chatbot](https://github.com/cczu-osa/aki) to help students achieve a better college life.
 - Created and maintained some [TeX templates](https://github.com/cczu-osa/tex-templates).
-- Gived a talk titled "Beyond the Code" to popularize open source knowledge. ([screen records](https://www.bilibili.com/video/BV1Ut411y7vn/))
-- Trained some freshmen to code in Python and create their own chatbots. ([screen records](https://www.bilibili.com/video/BV19t411679V/))
+- Gived a talk titled ["Beyond the Code"](https://www.bilibili.com/video/BV1Ut411y7vn/) to popularize open source knowledge.
 
 ## Talks
 

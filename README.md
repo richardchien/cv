@@ -68,11 +68,11 @@ Founder and leader of [CCZU OSA](https://github.com/cczu-osa)
 
 ## Talks
 
-- "Beyond the Code" (Nov 24, 2018)
-    - [Screen records](https://www.bilibili.com/video/BV1Ut411y7vn/)
-- "Training on Python and Chatbot Development" (Jan 12-16, 2019)
-    - [Screen records](https://www.bilibili.com/video/BV19t411679V/)
-- "Re-learn C++: Share A Tip of the Tip of the Iceberg of Modern C++" (May 30, 2020)
-    - [Slides](https://slides.com/richardchien/cczu-osa-meet-cpp)
 - "ChCoreCon #7: Why Write OS In Rust?" (Mar 1, 2021)
     - [Slides](https://stdrc.cc/chcorecon/7/slides.html)
+- "Re-learn C++: Share A Tip of the Tip of the Iceberg of Modern C++" (May 30, 2020)
+    - [Slides](https://slides.com/richardchien/cczu-osa-meet-cpp)
+- "Training on Python and Chatbot Development" (Jan 12-16, 2019)
+    - [Screen records](https://www.bilibili.com/video/BV19t411679V/)
+- "Beyond the Code" (Nov 24, 2018)
+    - [Screen records](https://www.bilibili.com/video/BV1Ut411y7vn/)

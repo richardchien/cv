@@ -35,7 +35,7 @@ Bachelor of Engineering (Internet of Things)
 
 ### Sep 2020 — Now, Institute of Parallel and Distributed Systems, Master Student
 
-I have been participating in the development of a new microkernel operating system. My works in this project are mostly related to the microkernel, device drivers and virtualization support.
+I have been participating in the development of a new microkernel operating system. My work in this project is mostly related to the microkernel, device drivers and virtualization support.
 
 ### Jul 2018 — Aug 2018, Wuhan Jieyu Technology Co. Ltd., Software Engineer Intern
 

@@ -68,8 +68,10 @@ Founder and leader of [CCZU OSA](https://github.com/cczu-osa)
 
 ## Talks
 
+- "Introduction of the Interrupt Mechanism" (Jun 9, 2021)
+    - [Slides](https://stdrc.cc/slides/interrupt/index.html)
 - "ChCoreCon #7: Why Write OS In Rust?" (Mar 1, 2021)
-    - [Slides](https://stdrc.cc/chcorecon/7/slides.html)
+    - [Slides](https://stdrc.cc/slides/write-os-in-rust/slides.html)
 - "Re-learn C++: Share A Tip of the Tip of the Iceberg of Modern C++" (May 30, 2020)
     - [Slides](https://slides.com/richardchien/cczu-osa-meet-cpp)
 - "Training on Python and Chatbot Development" (Jan 12-16, 2019)

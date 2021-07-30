@@ -68,10 +68,13 @@ Founder and leader of [CCZU OSA](https://github.com/cczu-osa)
 
 ## Talks
 
+- Paper Reading: "NrOS: Effective Replication and Sharing in an Operating System" (Jul 29, 2021)
+    - [Paper](https://www.usenix.org/system/files/osdi21-bhardwaj.pdf)
+    - [Slides](https://stdrc.cc/slides/nros/)
 - "Why Write OS In Rust? v2.0" (Jul 2, 2021)
     - [Slides](https://stdrc.cc/slides/write-os-in-rust-2.0/slides.html)
 - "Introduction of the Interrupt Mechanism" (Jun 9, 2021)
-    - [Slides](https://stdrc.cc/slides/interrupt/index.html)
+    - [Slides](https://stdrc.cc/slides/interrupt/)
 - "ChCoreCon #7: Why Write OS In Rust?" (Mar 1, 2021)
     - [Slides](https://stdrc.cc/slides/write-os-in-rust/slides.html)
 - "Re-learn C++: Share A Tip of the Tip of the Iceberg of Modern C++" (May 30, 2020)

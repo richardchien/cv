@@ -27,7 +27,7 @@ Bachelor of Engineering (Internet of Things)
 ### I Contributed
 
 - While building a toy blog engine using Rust, I contributed a little bit to [Actix Web](https://github.com/actix/actix-web/pull/1934) and [Tera](https://github.com/Keats/tera/pull/597).
-- While writing operating systems, I contributed a little bit to [Circle](https://github.com/rsta2/circle/pull/230).
+- While writing operating systems, I contributed a little bit to [Circle](https://github.com/rsta2/circle/pulls?q=is%3Apr+author%3Arichardchien).
 - While automating the generation of API docs for my Python projects, I fixed a bug for [pdoc](https://github.com/pdoc3/pdoc/pull/153).
 - While maintaining the OneBot standard, I contributed a little bit to [go-cqhttp](https://github.com/Mrs4s/go-cqhttp/pull/127).
 

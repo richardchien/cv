@@ -2,6 +2,14 @@
 
 ## Education
 
+### 2008 — now, Self-Education
+
+Programming
+
+- I started to learn programming at Grade 5 (visual programming and Visual Basic at first).
+- Almost all of my programming skills are self-taught.
+    - I learn from books, online courses, tutorials, blogs, documentations, and by writing real projects.
+
 ### Sep 2020 — Mar 2023 (expected), Shanghai Jiao Tong University
 
 Master of Engineering (Software Engineering)
@@ -52,11 +60,12 @@ During the second period, I built a new backend for the e-commerce website using
 
 ### Jan 2017 — Now, OneBot & NoneBot Community
 
-Leader of the OneBot & NoneBot community
+Leader of the OneBot & NoneBot community ([Bot Universe](https://github.com/botuniverse), [NoneBot](https://github.com/nonebot), [Kyubotics](https://github.com/kyubotics))
 
-- Promoted the idea of open source in QQ chatbot community by creating CQHTTP (now named OneBot) and NoneBot.
+- Promoted the idea of open source in QQ chatbot community by creating CQHTTP (now OneBot standard) and NoneBot.
 - Developed and maintained a large part of the ecosystem at the early days of the community.
 - Mentored on three projects of the community in [Summer 2021 of Open Source Promotion Plan](https://nonebot.dev/ospp.html).
+- The community now has 5.8k stars on GitHub totally.
 
 ### Oct 2018 — Jun 2020, Changzhou University Open Source Association
 

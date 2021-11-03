@@ -1,12 +1,19 @@
 # Richard Chien
 
+## Links
+
+- Email: rcx AT live DOT com
+- GitHub: https://github.com/richardchien
+- LinkedIn: https://www.linkedin.com/in/richard-chien/
+- Blog: https://stdrc.cc
+
 ## Education
 
 ### 2008 — now, Self-Education
 
 Programming
 
-- I started to learn programming at Grade 5 (visual programming and Visual Basic at first).
+- I started to learn visual programming and Visual Basic at Grade 5, then C at Grade 9.
 - Almost all of my programming skills are self-taught.
     - I learn from books, online courses, tutorials, blogs, documentations, and by writing real projects.
 

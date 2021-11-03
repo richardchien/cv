@@ -3,9 +3,9 @@
 ## Links
 
 - Email: rcx AT live DOT com
-- GitHub: https://github.com/richardchien
-- LinkedIn: https://www.linkedin.com/in/richard-chien/
-- Blog: https://stdrc.cc
+- GitHub: <https://github.com/richardchien>
+- LinkedIn: <https://www.linkedin.com/in/richard-chien/>
+- Blog: <https://stdrc.cc>
 
 ## Education
 

@@ -13,7 +13,7 @@
 
 Programming
 
-- I started to learn visual programming and Visual Basic at Grade 5, then C at Grade 9.
+- I started to learn visual programming and Visual Basic at Grade 5, C at Grade 9.
 - Almost all of my programming skills are self-taught.
     - I learn from books, online courses, tutorials, blogs, documentations, and by writing real projects.
 

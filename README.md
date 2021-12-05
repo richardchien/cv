@@ -33,10 +33,10 @@ Bachelor of Engineering (Internet of Things)
 
 - [OneBot](https://github.com/botuniverse/onebot) (2020-now): A chatbot API standard derived from CQHTTP, aiming to unify the API for different chatbot platforms. Now it has 0.7k stars on GitHub.
 - [Go LibOneBot](https://github.com/botuniverse/go-libonebot) (Go, 2021-now): A library to help developers implement OneBot standard on new chatbot platforms quickly.
-- [CQHTTP](https://github.com/kyubotics/coolq-http-api) (C++17, 2017-2020): A chatbot middleware to convert low-level ABIs of a chatbot platform called CoolQ to high-level HTTP and WebSocket APIs, making chatbot development easy with programming languages for web (PHP, Python, etc). This tool solved the problem faced by many chatbot developers, hence gained up to 1.8k stars on GitHub, and powered 5k+ chatbots in its prime, reaching approximately hundreds of thousands of end users.
-- [CQCPPSDK](https://github.com/kyubotics/cqcppsdk) (C++17, 2017-2020): A C++ SDK for CoolQ, extracted from CQHTTP to reduce coupling and improve code reuse. It wraps CoolQ's low-level ABIs and provides users with modern C++ APIs.
-- [NoneBot](https://github.com/nonebot/nonebot) (Python, 2016-2021): A chatbot framework that supports commands, message pattern matching, interactive sessions and more features, making interactive chatbot development quite convenient and intuitive, even possible for middle school students. Due to its easy-to-use API and detailed documentation, it has gained 1.5k stars on GitHub.
-- [QDP](https://github.com/richardchien/qdp) (Python, 2018) & [OBTunnel](https://github.com/richardchien/obtunnel) (Rust, 2021): To verify the idea that it is possible to transmit arbitrary binary data through QQ message, I designed and implemented a simple communication protocol called QDP, which has similar programming interface to UDP. Later in 2021, I refined the idea and reimplemented the functionality in Rust, using TUN for compatibility with existing network stack.
+- **[CQHTTP](https://github.com/kyubotics/coolq-http-api)** (C++17, 2017-2020): A chatbot middleware to convert low-level ABIs of a chatbot platform called CoolQ to high-level HTTP and WebSocket APIs, making chatbot development easy with programming languages for web (PHP, Python, etc). This tool solved the problem faced by many chatbot developers, hence gained up to 1.8k stars on GitHub, and powered 5k+ chatbots in its prime, reaching approximately hundreds of thousands of end users.
+- **[CQCPPSDK](https://github.com/kyubotics/cqcppsdk)** (C++17, 2017-2020): A C++ SDK for CoolQ, extracted from CQHTTP to reduce coupling and improve code reuse. It wraps CoolQ's low-level ABIs and provides users with modern C++ APIs.
+- **[NoneBot](https://github.com/nonebot/nonebot)** (Python, 2016-2021): A chatbot framework that supports commands, message pattern matching, interactive sessions and more features, making interactive chatbot development quite convenient and intuitive, even possible for middle school students. Due to its easy-to-use API and detailed documentation, it has gained 1.5k stars on GitHub.
+- [QDP](https://github.com/richardchien/qdp) (Python, 2018) & [OBTunnel](https://github.com/richardchien/obtunnel) (Rust, 2021): To verify the idea that it is possible to transmit arbitrary binary data through QQ messages, I designed and implemented a simple communication protocol called QDP, which has similar APIs to UDP. Later in 2021, I refined the idea and reimplemented the functionality in Rust, using TUN for compatibility with existing network stack.
 - [BlogA](https://github.com/verilab/blog-a) & [VeriPress](https://github.com/verilab/veripress) & [PurePress](https://github.com/verilab/purepress) (Python, 2016-now): During learning, I love to write some notes or tutorials and post them on my blog. For a better blogging experience, I built my own blog engine in 2016, and kept refining it until now.
 - [DBox](https://github.com/richardchien-archive/dbox) (Java, 2016-2017): A SQLite ORM library for Android built while I was learning Android development. It supports defining model classes with Java annotations and provides intuitive CRUD APIs.
 
@@ -51,7 +51,7 @@ Bachelor of Engineering (Internet of Things)
 
 ### Sep 2020 — Now, Institute of Parallel and Distributed Systems, Master Student
 
-I have been participating in the development of a new microkernel operating system. My work in this project is mostly related to the microkernel, device drivers and virtualization support.
+I have been working on a new microkernel operating system (ChCore) at IPADS. My work is mostly about refining the microkernel and its virtualization support, porting device drivers and POSIX applications, and refactoring user-level supporting libraries (LibChCore).
 
 ### Jul 2018 — Aug 2018, Wuhan Jieyu Technology Co. Ltd., Software Engineer Intern
 
@@ -94,8 +94,6 @@ Founder and leader of [CCZU OSA](https://github.com/cczu-osa)
 - "Why Write OS In Rust? v2.0" (Jul 2, 2021)
     - [Screen record](https://www.bilibili.com/video/BV1tP4y1x7h7)
     - [Slides](https://stdrc.cc/slides/write-os-in-rust-2.0/slides.html)
-- "Introduction of the Interrupt Mechanism" (Jun 9, 2021)
-    - [Slides](https://stdrc.cc/slides/interrupt/)
 - "ChCoreCon #7: Why Write OS In Rust?" (Mar 1, 2021)
     - [Slides](https://stdrc.cc/slides/write-os-in-rust/slides.html)
 - "Re-learn C++: Share A Tip of the Tip of the Iceberg of Modern C++" (May 30, 2020)

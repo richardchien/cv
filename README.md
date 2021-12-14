@@ -2,7 +2,7 @@
 
 ## Links
 
-- Email: rcx AT live DOT com
+- Email: stdrc AT outlook DOT com | rcx AT live DOT com
 - GitHub: <https://github.com/richardchien>
 - LinkedIn: <https://www.linkedin.com/in/richard-chien/>
 - Blog: <https://stdrc.cc>
@@ -55,7 +55,7 @@ I have been working on a new microkernel operating system (ChCore) at IPADS. My 
 
 ### Jul 2018 — Aug 2018, Wuhan Jieyu Technology Co. Ltd., Software Engineer Intern
 
-I participated in the development of both frontend and backend for a community operation product and an internal web console, using Vue.js for frontend and Tornado for backend. I had done all jobs assigned to me on time, and gained experience of online log analysis and team collabration during the internship.
+I participated in the development of both frontend and backend for a community operation product and an internal web console, using Vue.js for frontend and Tornado for backend. I had done all jobs assigned to me on time, and gained experience of online log analysis and team collaboration during the internship.
 
 ### Nov 2016 — Jan 2017 & Jul 2017 — Oct 2017, MiLove Entrepreneurial Team
 

@@ -2,7 +2,7 @@
 
 ## Links
 
-- Email: stdrc AT outlook DOT com | rcx AT live DOT com
+- Email: rcx AT live DOT com
 - GitHub: <https://github.com/richardchien>
 - LinkedIn: <https://www.linkedin.com/in/richard-chien/>
 - Blog: <https://stdrc.cc>

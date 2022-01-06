@@ -51,7 +51,7 @@ Bachelor of Engineering (Internet of Things)
 
 ### Sep 2020 — Now, Institute of Parallel and Distributed Systems, Master Student
 
-I have been working on a new microkernel operating system (ChCore) at IPADS. My work is mostly about refining the microkernel and its virtualization support, porting device drivers and POSIX applications, and refactoring user-level supporting libraries (LibChCore).
+I have been working on a new microkernel operating system (ChCore) at IPADS. My work is mostly about refining the microkernel and its virtualization support, porting device drivers and POSIX applications, and refactoring the building system and user-level supporting libraries (LibChCore).
 
 ### Jul 2018 — Aug 2018, Wuhan Jieyu Technology Co. Ltd., Software Engineer Intern
 
@@ -62,6 +62,10 @@ I participated in the development of both frontend and backend for a community o
 I was in charge of the maintenance of MiLove website and the customization of WordPress framework. I also built a [message forwarding tool](https://github.com/richardchien-archive/wechat-intercom) to forward messages between WeChat and Intercom, which helped improve the efficiency of customer service.
 
 During the second period, I built a new backend for the e-commerce website using Django web framework.
+
+### Jun 2016 - Aug 2016, VnetLink, Technical Support
+
+I worked for VnetLink (a startup company that provides network traffic optimization service) as technical support. My responsibility was to help customers solve problems encountered while using our service.
 
 ## Open Source Contributions
 

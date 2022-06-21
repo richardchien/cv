@@ -31,7 +31,7 @@ Bachelor of Engineering (Internet of Things)
 
 ### I Created
 
-- [OneBot](https://github.com/botuniverse/onebot) (2020-now): A chatbot API standard derived from CQHTTP, aiming to unify the API for different chatbot platforms. Now it has 0.7k stars on GitHub.
+- **[OneBot](https://github.com/botuniverse/onebot)** (2020-now): A chatbot API standard derived from CQHTTP, aiming to unify the API for different chatbot platforms. Now it has 0.7k stars on GitHub.
 - [Go LibOneBot](https://github.com/botuniverse/go-libonebot) (Go, 2021-now): A library to help developers implement OneBot standard on new chatbot platforms quickly.
 - **[CQHTTP](https://github.com/kyubotics/coolq-http-api)** (C++17, 2017-2020): A chatbot middleware to convert low-level ABIs of a chatbot platform called CoolQ to high-level HTTP and WebSocket APIs, making chatbot development easy with programming languages for web (PHP, Python, etc). This tool solved the problem faced by many chatbot developers, hence gained up to 1.8k stars on GitHub, and powered 5k+ chatbots in its prime, reaching approximately hundreds of thousands of end users.
 - **[CQCPPSDK](https://github.com/kyubotics/cqcppsdk)** (C++17, 2017-2020): A C++ SDK for CoolQ, extracted from CQHTTP to reduce coupling and improve code reuse. It wraps CoolQ's low-level ABIs and provides users with modern C++ APIs.
@@ -89,7 +89,7 @@ Founder and leader of [CCZU OSA](https://github.com/cczu-osa)
 ## Talks
 
 - "Modern CMake By Example" (Nov 3, 2021)
-    - [Screen record](https://www.bilibili.com/video/BV14h41187FZ)
+    - [Screen record](https://www.bilibili.com/video/BV1Yv4y1g7fq)
     - [Code](https://github.com/richardchien/modern-cmake-by-example)
 - Paper Reading: "NrOS: Effective Replication and Sharing in an Operating System" (Jul 29, 2021)
     - [Paper](https://www.usenix.org/system/files/osdi21-bhardwaj.pdf)

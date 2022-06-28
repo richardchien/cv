@@ -62,7 +62,7 @@ As my final project, I implemented Adaptive System Module for ChCore, so that on
 
 I participated in the development of both frontend and backend for a community operation product and an internal web console, using Vue.js for frontend and Tornado for backend. I had done all jobs assigned to me on time, and gained experience of online log analysis and team collaboration during the internship.
 
-### Nov 2016 — Jan 2017 & Jul 2017 — Oct 2017, MiLove Entrepreneurial Team
+### Nov 2016 — Jan 2017 & Jul 2017 — Oct 2017, MiLove Entrepreneurial Team, Software Engineer
 
 I was in charge of the maintenance of MiLove website and the customization of WordPress framework. I also built a [message forwarding tool](https://github.com/richardchien-archive/wechat-intercom) to forward messages between WeChat and Intercom, which helped improve the efficiency of customer service.
 

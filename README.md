@@ -80,8 +80,8 @@ Leader of the OneBot & NoneBot community ([Bot Universe](https://github.com/botu
 
 - Promoted the idea of open source in QQ chatbot community by creating CQHTTP (now OneBot standard) and NoneBot.
 - Developed and maintained a large part of the ecosystem at the early days of the community.
-- Mentored on three projects of the community in [Summer 2021 of Open Source Promotion Plan](https://nonebot.dev/ospp.html).
-- The community now has 5.8k stars on GitHub totally.
+- Mentored on three projects of the community in [Summer 2021 of Open Source Promotion Plan](https://nonebot.dev/ospp-2021.html).
+- The community now has 8k stars on GitHub totally.
 
 ### Oct 2018 — Jun 2020, Changzhou University Open Source Association
 

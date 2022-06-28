@@ -9,7 +9,7 @@
 
 ## Education
 
-### 2008 — now, Self-Education
+### 2008 — Now, Self-Education
 
 Programming
 

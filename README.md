@@ -50,7 +50,7 @@ Bachelor of Engineering (Internet of Things)
 
 ### Jun 2022 - Now, Singularity Data, Database Kernel Intern
 
-TODO
+...
 
 ### Sep 2020 — Now, Institute of Parallel and Distributed Systems, Master Student
 

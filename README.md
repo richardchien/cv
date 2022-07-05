@@ -56,7 +56,7 @@ Bachelor of Engineering (Internet of Things)
 
 I have been working on a new microkernel operating system (ChCore) at IPADS. My work is mostly about refining the microkernel and its virtualization support, porting device drivers and POSIX applications, and refactoring the building system and user-level supporting libraries (LibChCore).
 
-As my final project, I implemented Adaptive System Module for ChCore, so that one binary module can be dynamically loaded into either kernel land or user land without the need to rewrite or recompile code, making the tradeoff between isolation/safety and performance more flexible.
+As my final project, I implemented Adaptive System Module for ChCore, with which one binary module can be dynamically loaded into either kernel land or user land without the need to rewrite or recompile any code, making the tradeoff between isolation/safety and performance more flexible.
 
 ### Jul 2018 — Aug 2018, Wuhan Jieyu Technology Co. Ltd., Software Engineer Intern
 

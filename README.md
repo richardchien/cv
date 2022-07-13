@@ -48,7 +48,7 @@ Bachelor of Engineering (Internet of Things)
 
 ## Experience
 
-### Jun 2022 - Now, Singularity Data, Database Kernel Intern
+### Jun 2022 - Now, Singularity Data, Database Engineer Intern
 
 ...
 
